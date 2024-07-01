@@ -5,4 +5,4 @@ Download Model here : https://drive.google.com/file/d/12u2FLZCUI-MLTcKhpIbFuAXSo
 Run the .ipynb file and load the downloaded model in that file.
 
 To run the streamlit app,
-open cmd in the folder and open the path mentioned in the .py file.
+open cmd in the folder and run the path mentioned in the .py file.
